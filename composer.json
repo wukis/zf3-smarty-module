@@ -36,5 +36,5 @@
         "laminas": {
             "component": "GKralik\\SmartyModule"
         }
-    },
+    }
 }
