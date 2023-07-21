@@ -1,3 +1,5 @@
+The only difference of this package is that does not contain laminas-dependency-plugin requirement in composer.json which blocks you from upgrading to the latest composer version
+
 # zf3-smarty-module
 
 This is a module for integrating the [Smarty](http://www.smarty.net) template engine with [Laminas](https://getlaminas.org/) or [Zend Framework 3](http://framework.zend.com).
